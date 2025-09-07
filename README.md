@@ -1,6 +1,6 @@
-Hi There! 
+Hello There 
 
-I'm Muhmmad-Talal-Hamza — a beginner developer, currently learning **Flutter** to build cross-platform mobile apps.  
+I'm Muhammad-Talal-Hamza — a beginner developer, currently learning **Flutter** to build cross-platform mobile apps.  
 Focused on growth, problem-solving, and clean UI design.
 
 -  Currently learning: Dart & Flutter  
@@ -12,4 +12,4 @@ Focused on growth, problem-solving, and clean UI design.
 - Tools: VS Code, Git, GitHub
 
 
- Reach me: [Talalhamza44@gmail.com]
+ Reach me at: [Talalhamza44@gmail.com]
